@@ -105,15 +105,6 @@ public void playAgain(View view){
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        
-//        new Handler().postDelayed(new Runnable(){
-//            @Override
-//            public void run(){
-//                Intent homeIntent = new Intent(MainActivity.this, splashActivity.class);
-//                startActivity(homeIntent);
-//                finish();
-//
-//            }
-//        },SPLASH_TIME_OUT);
+
     }
 }
